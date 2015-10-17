@@ -1,8 +1,6 @@
 #!/usr/bin/env python
 
 api_var = dict(
-    B16001_001E = 'Total',
-    B16001_003E = 'Spanish or Spanish Creole',
     B16001_006E = 'French (incl. Patois, Cajun)',
     B16001_009E = 'French Creole',
     B16001_012E = 'Italian',
