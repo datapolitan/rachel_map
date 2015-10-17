@@ -1,0 +1,1795 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.80257925196757,
+     40.70967250727158
+    ]
+   },
+   "properties": {
+    "EC_ID": "Q505",
+    "NAME": "Hillcrest HS",
+    "ADDRESS": "160-05 Highland Avenue",
+    "CITY": "Jamaica",
+    "STATE": "NY",
+    "CROSS_ST": "Between 162 Street and Parsons Boulevard",
+    "ACCESSIBLE": "N",
+    "ACC_FEAT": "",
+    "ROLE": "",
+    "PARKING": "N",
+    "REC_TYPE": "SHELTER",
+    "ACTIVE": "1",
+    "ZIP": "11432",
+    "X": "1038983",
+    "Y": "197891",
+    "gx_id": "1"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.9358224273088,
+     40.83939749174036
+    ]
+   },
+   "properties": {
+    "EC_ID": "M090",
+    "NAME": "IS 90",
+    "ADDRESS": "21 Jumel Place",
+    "CITY": "New York",
+    "STATE": "NY",
+    "CROSS_ST": "Between West 167 Street and Edgecombe Avenue",
+    "ACCESSIBLE": "P",
+    "ACC_FEAT": "• The main/accessible entrance to this location is at 21 Jumel Place.\\n\\n• Access to the main shelter areas will be unobstructed and without steps.\\n \\n• Accessible restrooms are available.\\n\\n• Accessible dormitory and eating/cafeteria areas are available.\\n\\n• Additional amenities will be available such as accessible cots and mobility aids (canes, crutches, manual wheelchairs, storage space for refrigerated medication, etc.).\\n\\n",
+    "ROLE": "",
+    "PARKING": "N",
+    "REC_TYPE": "SHELTER",
+    "ACTIVE": "1",
+    "ZIP": "10032",
+    "X": "1002008",
+    "Y": "245099",
+    "gx_id": "10"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.92622733178467,
+     40.855601989054065
+    ]
+   },
+   "properties": {
+    "EC_ID": "M465",
+    "NAME": "George Washington HS",
+    "ADDRESS": "549 Audubon Avenue",
+    "CITY": "New York",
+    "STATE": "NY",
+    "CROSS_ST": "Between West 192 Street and West 193 Street",
+    "ACCESSIBLE": "N",
+    "ACC_FEAT": "",
+    "ROLE": "",
+    "PARKING": "N",
+    "REC_TYPE": "SHELTER",
+    "ACTIVE": "1",
+    "ZIP": "10040",
+    "X": "1004658",
+    "Y": "251005",
+    "gx_id": "11"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.99072255471931,
+     40.76369347020209
+    ]
+   },
+   "properties": {
+    "EC_ID": "M625",
+    "NAME": "HS Of Graphic Comm Arts",
+    "ADDRESS": "439 West 49 Street",
+    "CITY": "New York",
+    "STATE": "NY",
+    "CROSS_ST": "Between 9 Avenue and 10 Avenue",
+    "ACCESSIBLE": "N",
+    "PARKING": "N",
+    "REC_TYPE": "SHELTER",
+    "ACTIVE": "1",
+    "ZIP": "10019",
+    "X": "986820",
+    "Y": "217511",
+    "gx_id": "12"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.95046310691892,
+     40.819543957127784
+    ]
+   },
+   "properties": {
+    "EC_ID": "C003",
+    "NAME": "City College",
+    "ADDRESS": "181 Convent Avenue",
+    "CITY": "New York",
+    "STATE": "NY",
+    "CROSS_ST": "Between West 135 Street and West 140 Street",
+    "ACCESSIBLE": "N",
+    "ACC_FEAT": "",
+    "ROLE": "",
+    "PARKING": "N",
+    "REC_TYPE": "SHELTER",
+    "ACTIVE": "1",
+    "ZIP": "10031",
+    "X": "997961",
+    "Y": "237863",
+    "gx_id": "13"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.96503548199716,
+     40.76869769113908
+    ]
+   },
+   "properties": {
+    "EC_ID": "C005",
+    "NAME": "Hunter College",
+    "ADDRESS": "695 Park Avenue",
+    "CITY": "New York",
+    "STATE": "NY",
+    "CROSS_ST": "Between East 68 Street and East 69 Street",
+    "ACCESSIBLE": "N",
+    "ACC_FEAT": "",
+    "ROLE": "",
+    "PARKING": "N",
+    "REC_TYPE": "SHELTER",
+    "ACTIVE": "1",
+    "ZIP": "10065",
+    "X": "993935",
+    "Y": "219336",
+    "gx_id": "14"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.92004539999999,
+     40.8356493
+    ]
+   },
+   "properties": {
+    "EC_ID": "X235",
+    "NAME": "PS - IS 218",
+    "ADDRESS": "1220 Gerard Avenue",
+    "CITY": "Bronx",
+    "CROSS_ST": "Between EAST 167 STREET and EAST 168 STREET",
+    "ACCESSIBLE": "P",
+    "ACC_FEAT": "• The main/accessible entrance to this location is at 1220 Gerard Avenue.\\n\\n• Access to the main shelter areas will be unobstructed and without steps.\\n \\n• Accessible restrooms are available.\\n\\n• Accessible dormitory and eating/cafeteria areas are available.\\n\\n• Additional amenities will be available such as accessible cots and mobility aids (canes, crutches, manual wheelchairs, storage space for refrigerated medication, etc.).\\n\\n",
+    "ROLE": "",
+    "PARKING": "N",
+    "REC_TYPE": "SHELTER",
+    "ACTIVE": "1",
+    "ZIP": "10452",
+    "X": "1006375",
+    "Y": "243737",
+    "gx_id": "1400008809122-218"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.0047394,
+     40.6528269
+    ]
+   },
+   "properties": {
+    "EC_ID": "K024",
+    "NAME": "PS 24",
+    "ADDRESS": "427 38 Street",
+    "CITY": "Brooklyn",
+    "CROSS_ST": "Between 4 AVENUE and 5 AVENUE",
+    "ACCESSIBLE": "P",
+    "ACC_FEAT": "• The main/accessible entrance to this location is at 427 38th Street.\\n\\n• Access to the main shelter areas will be unobstructed and without steps.\\n\\n• Accessible restrooms are available.\\n\\n• Accessible dormitory and eating/cafeteria areas are available.\\n\\n• Additional amenities will be available such as accessible cots and mobility aids (canes, crutches, manual wheelchairs, storage space for refrigerated medication, etc.).\\n\\n",
+    "ROLE": "",
+    "PARKING": "N",
+    "REC_TYPE": "SHELTER",
+    "ACTIVE": "1",
+    "ZIP": "11232",
+    "X": "982935",
+    "Y": "177119",
+    "gx_id": "1400009060880-360"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.82138900000001,
+     40.735
+    ]
+   },
+   "properties": {
+    "EC_ID": "Q515",
+    "NAME": "Townsend Harris HS",
+    "ADDRESS": "149-11 Melbourne Avenue",
+    "CITY": "Flushing",
+    "CROSS_ST": "Between 149 STREET and 150 STREET",
+    "ACCESSIBLE": "P",
+    "ACC_FEAT": "• The main/accessible entrance to this location is at 149-11 Melbourne.\\n\\n• Access to the main shelter areas will be unobstructed and without steps.\\n \\n• Accessible restrooms are available.\\n\\n• Accessible dormitory and eating/cafeteria areas are available.\\n\\n• Additional amenities will be available such as accessible cots and mobility aids (canes, crutches, manual wheelchairs, storage space for refrigerated medication, etc.).\\n\\n",
+    "ROLE": "",
+    "PARKING": "N",
+    "REC_TYPE": "SHELTER",
+    "ACTIVE": "1",
+    "ZIP": "11367",
+    "X": "1033749",
+    "Y": "207107",
+    "gx_id": "1400009161303-278"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.78523100000001,
+     40.707636
+    ]
+   },
+   "properties": {
+    "EC_ID": "Q268",
+    "NAME": "PS – IS 268",
+    "ADDRESS": "92-07 175 Street",
+    "CITY": "Jamaica",
+    "CROSS_ST": "JAMAICA AVENUE and 93 AVENUE",
+    "ACCESSIBLE": "P",
+    "ACC_FEAT": "• The main/accessible entrance to this location is at 92-07 175th Street.\\n\\n• Access to the main shelter areas will be unobstructed and without steps.\\n \\n• Accessible restrooms are available.\\n\\n• Accessible dormitory and eating/cafeteria areas are available.\\n\\n• Additional amenities will be available such as accessible cots and mobility aids (canes, crutches, manual wheelchairs, storage space for refrigerated medication, etc.).\\n\\n",
+    "ROLE": "",
+    "PARKING": "N",
+    "REC_TYPE": "SHELTER",
+    "ACTIVE": "1",
+    "ZIP": "11433",
+    "X": "1043794",
+    "Y": "197160",
+    "gx_id": "1400011014988-441"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.16090299999996,
+     40.582816
+    ]
+   },
+   "properties": {
+    "EC_ID": "R058",
+    "NAME": "PS 58",
+    "ADDRESS": "77 Marsh Avenue",
+    "CITY": "Staten Island",
+    "CROSS_ST": "WESTPORT STREET and ELMWOOD PARK DRIV",
+    "ACCESSIBLE": "P",
+    "ACC_FEAT": "• The main/accessible entrance to this location is at 77 Marsh Avenue.\\n\\n• Access to the main shelter areas will be unobstructed and without steps.\\n \\n• Accessible restrooms are available.\\n\\n• Accessible dormitory and eating/cafeteria areas are available.\\n\\n• Additional amenities will be available such as accessible cots and mobility aids (canes, crutches, manual wheelchairs, storage space for refrigerated medication, etc.).\\n\\n",
+    "ROLE": "",
+    "PARKING": "N",
+    "REC_TYPE": "SHELTER",
+    "ACTIVE": "1",
+    "ZIP": "10314",
+    "X": "939556",
+    "Y": "151653",
+    "gx_id": "1400011101672-855"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.98664564045497,
+     40.77035730062582
+    ]
+   },
+   "properties": {
+    "EC_ID": "C004",
+    "NAME": "John Jay College",
+    "ADDRESS": "445 W 59 Street",
+    "CITY": "New York",
+    "STATE": "NY",
+    "CROSS_ST": "Between Columbus Avenue / 9 Avenue and Amsterdam Avenue / 10 Avenue",
+    "ACCESSIBLE": "N",
+    "ACC_FEAT": "",
+    "ROLE": "",
+    "PARKING": "N",
+    "REC_TYPE": "SHELTER",
+    "ACTIVE": "1",
+    "ZIP": "10019",
+    "X": "987949",
+    "Y": "219939",
+    "gx_id": "15"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.78078825156369,
+     40.77145878818821
+    ]
+   },
+   "properties": {
+    "EC_ID": "Q405",
+    "NAME": "Bayside HS",
+    "ADDRESS": "32-24 Corporal Kennedy Street",
+    "CITY": "Bayside",
+    "STATE": "NY",
+    "CROSS_ST": "Between 32 Avenue and 33 Avenue",
+    "ACCESSIBLE": "N",
+    "PARKING": "N",
+    "REC_TYPE": "SHELTER",
+    "ACTIVE": "1",
+    "ZIP": "11361",
+    "X": "1044968",
+    "Y": "220416",
+    "gx_id": "16"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.91051109774735,
+     40.75790610304244
+    ]
+   },
+   "properties": {
+    "EC_ID": "Q445",
+    "NAME": "William C. Bryant HS",
+    "ADDRESS": "48-10 31 Avenue",
+    "CITY": "Long Island City",
+    "STATE": "NY",
+    "CROSS_ST": "Between 48 Street and 49 Street",
+    "ACCESSIBLE": "N",
+    "PARKING": "N",
+    "REC_TYPE": "SHELTER",
+    "ACTIVE": "1",
+    "ZIP": "11103",
+    "X": "1009042",
+    "Y": "215415",
+    "gx_id": "17"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.81863673723693,
+     40.77492806216298
+    ]
+   },
+   "properties": {
+    "EC_ID": "Q185",
+    "NAME": "JHS 185",
+    "ADDRESS": "147-26 25 Drive",
+    "CITY": "Flushing",
+    "STATE": "NY",
+    "CROSS_ST": "Between 147 Street and 149 Street",
+    "ACCESSIBLE": "N",
+    "PARKING": "N",
+    "REC_TYPE": "SHELTER",
+    "ACTIVE": "1",
+    "ZIP": "11354",
+    "X": "1034482",
+    "Y": "221656",
+    "gx_id": "18"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.82663800457927,
+     40.76508125393604
+    ]
+   },
+   "properties": {
+    "EC_ID": "Q460",
+    "NAME": "Flushing HS",
+    "ADDRESS": "35-01 Union Street",
+    "CITY": "Flushing",
+    "STATE": "NY",
+    "CROSS_ST": "Between 35 Avenue and Northern Boulevard",
+    "ACCESSIBLE": "N",
+    "PARKING": "N",
+    "REC_TYPE": "SHELTER",
+    "ACTIVE": "1",
+    "ZIP": "11354",
+    "X": "1032273",
+    "Y": "218064",
+    "gx_id": "19"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.89300834526695,
+     40.87466808991797
+    ]
+   },
+   "properties": {
+    "EC_ID": "C001",
+    "NAME": "Lehman College",
+    "ADDRESS": "250 Bedford Park Blvd W",
+    "CITY": "Bronx",
+    "STATE": "NY",
+    "CROSS_ST": "Between Goulden Avenue and Paul Avenue",
+    "ACCESSIBLE": "N",
+    "PARKING": "N",
+    "REC_TYPE": "SHELTER",
+    "ACTIVE": "1",
+    "ZIP": "10468",
+    "X": "1013839",
+    "Y": "257961",
+    "gx_id": "2"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.95829248125727,
+     40.69247633829697
+    ]
+   },
+   "properties": {
+    "EC_ID": "K117",
+    "NAME": "IS 117",
+    "ADDRESS": "300 Willoughby Avenue",
+    "CITY": "Brooklyn",
+    "STATE": "NY",
+    "CROSS_ST": "Between Kent Avenue and Franklin Avenue",
+    "ACCESSIBLE": "N",
+    "PARKING": "N",
+    "REC_TYPE": "SHELTER",
+    "ACTIVE": "1",
+    "ZIP": "11205",
+    "X": "995816",
+    "Y": "191567",
+    "gx_id": "20"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.92930708496745,
+     40.74349277384849
+    ]
+   },
+   "properties": {
+    "EC_ID": "Q610",
+    "NAME": "Aviation HS",
+    "ADDRESS": "45-30 36 Street",
+    "CITY": "Long Island City",
+    "STATE": "NY",
+    "CROSS_ST": "Between Queens Boulevard and 47 Avenue",
+    "ACCESSIBLE": "N",
+    "PARKING": "N",
+    "REC_TYPE": "SHELTER",
+    "ACTIVE": "1",
+    "ZIP": "11101",
+    "X": "1003839",
+    "Y": "210159",
+    "gx_id": "21"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.88970746217856,
+     40.84387217284417
+    ]
+   },
+   "properties": {
+    "EC_ID": "X193",
+    "NAME": "PS 211",
+    "ADDRESS": "1919 Prospect Avenue",
+    "CITY": "Bronx",
+    "STATE": "NY",
+    "CROSS_ST": "Between East Tremont Avenue and Fairmount Place",
+    "ACCESSIBLE": "N",
+    "PARKING": "N",
+    "REC_TYPE": "SHELTER",
+    "ACTIVE": "1",
+    "ZIP": "10457",
+    "X": "1014766",
+    "Y": "246742",
+    "gx_id": "22"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.93681294890177,
+     40.75158316794939
+    ]
+   },
+   "properties": {
+    "EC_ID": "Q450",
+    "NAME": "Newcomers HS",
+    "ADDRESS": "28-01 41 Avenue",
+    "CITY": "Long Island City",
+    "STATE": "NY",
+    "CROSS_ST": "Between 28 Street and 29 Street",
+    "ACCESSIBLE": "N",
+    "ACC_FEAT": "",
+    "ROLE": "",
+    "PARKING": "N",
+    "REC_TYPE": "SHELTER",
+    "ACTIVE": "1",
+    "ZIP": "11101",
+    "X": "1001757",
+    "Y": "213105",
+    "gx_id": "23"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.98358798270839,
+     40.740107064156525
+    ]
+   },
+   "properties": {
+    "EC_ID": "C006",
+    "NAME": "Baruch College",
+    "ADDRESS": "155 E 24 Street",
+    "CITY": "New York",
+    "STATE": "NY",
+    "CROSS_ST": "Between Lexington Avenue and 3 Avenue",
+    "ACCESSIBLE": "N",
+    "ACC_FEAT": "",
+    "ROLE": "",
+    "PARKING": "N",
+    "REC_TYPE": "SHELTER",
+    "ACTIVE": "1",
+    "ZIP": "10010",
+    "X": "988798",
+    "Y": "208918",
+    "gx_id": "24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.87426320809504,
+     40.74090144812533
+    ]
+   },
+   "properties": {
+    "EC_ID": "Q455",
+    "NAME": "Newtown HS",
+    "ADDRESS": "48-01 90 Street",
+    "CITY": "Elmhurst",
+    "STATE": "NY",
+    "CROSS_ST": "Between 48 Avenue and 50 Avenue",
+    "ACCESSIBLE": "N",
+    "PARKING": "N",
+    "REC_TYPE": "SHELTER",
+    "ACTIVE": "1",
+    "ZIP": "11373",
+    "X": "1019093",
+    "Y": "209232",
+    "gx_id": "25"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.86147219689255,
+     40.875449717818135
+    ]
+   },
+   "properties": {
+    "EC_ID": "X425",
+    "NAME": "Evander Childs HS",
+    "ADDRESS": "800 East Gun Hill Road",
+    "CITY": "Bronx",
+    "STATE": "NY",
+    "CROSS_ST": "Between Barnes Avenue and Bronxwood Avenue",
+    "ACCESSIBLE": "N",
+    "PARKING": "N",
+    "REC_TYPE": "SHELTER",
+    "ACTIVE": "1",
+    "ZIP": "10467",
+    "X": "1022560",
+    "Y": "258258",
+    "gx_id": "26"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.08185348343864,
+     40.64535988596639
+    ]
+   },
+   "properties": {
+    "EC_ID": "R450",
+    "NAME": "Curtis HS",
+    "ADDRESS": "105 Hamilton Avenue",
+    "CITY": "Staten Island",
+    "STATE": "NY",
+    "CROSS_ST": "Between St Mark's Place and Daniel Low Terrace",
+    "ACCESSIBLE": "N",
+    "PARKING": "N",
+    "REC_TYPE": "SHELTER",
+    "ACTIVE": "1",
+    "ZIP": "10301",
+    "X": "961535",
+    "Y": "174409",
+    "gx_id": "27"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.14503167543772,
+     40.62288634220996
+    ]
+   },
+   "properties": {
+    "EC_ID": "R051",
+    "NAME": "IS 51",
+    "ADDRESS": "20 Houston Street",
+    "CITY": "Staten Island",
+    "STATE": "NY",
+    "CROSS_ST": "Between Willow Road East and Willowbrook Road",
+    "ACCESSIBLE": "N",
+    "PARKING": "N",
+    "REC_TYPE": "SHELTER",
+    "ACTIVE": "1",
+    "ZIP": "10302",
+    "X": "943989",
+    "Y": "166244",
+    "gx_id": "28"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.19719839318529,
+     40.54428521600462
+    ]
+   },
+   "properties": {
+    "EC_ID": "R075",
+    "NAME": "IS 75",
+    "ADDRESS": "455 Huguenot Avenue",
+    "CITY": "Staten Island",
+    "STATE": "NY",
+    "CROSS_ST": "Between Woodrow Road and Castor Pl",
+    "ACCESSIBLE": "P",
+    "ACC_FEAT": "• The main/accessible entrance to this location is at 455 Huguenot Avenue.\\n\\n• Access to the main shelter areas will be unobstructed and without steps.\\n \\n• Accessible restrooms are available.\\n\\n• Accessible dormitory and eating/cafeteria areas are available.\\n\\n• Additional amenities will be available such as accessible cots and mobility aids (canes, crutches, manual wheelchairs, storage space for refrigerated medication, etc.).\\n\\n",
+    "PARKING": "N",
+    "REC_TYPE": "SHELTER",
+    "ACTIVE": "1",
+    "ZIP": "10312",
+    "X": "929443",
+    "Y": "137636",
+    "gx_id": "29"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.91022925841564,
+     40.85721825847737
+    ]
+   },
+   "properties": {
+    "EC_ID": "C002",
+    "NAME": "Bx Community College",
+    "ADDRESS": "80 W 181 Street",
+    "CITY": "Bronx",
+    "STATE": "NY",
+    "CROSS_ST": "Corner of Dr. M. L. King Jr. Blvd (Univ. Ave) and W 181 Street",
+    "ACCESSIBLE": "N",
+    "ACC_FEAT": "",
+    "ROLE": "",
+    "PARKING": "N",
+    "REC_TYPE": "SHELTER",
+    "ACTIVE": "1",
+    "ZIP": "10453",
+    "X": "1009083",
+    "Y": "251598",
+    "gx_id": "3"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.94739749549281,
+     40.81730839786393
+    ]
+   },
+   "properties": {
+    "EC_ID": "M136",
+    "NAME": "Bread and Roses",
+    "ADDRESS": "6 Edgecombe Avenue",
+    "CITY": "New York",
+    "STATE": "NY",
+    "CROSS_ST": "Between West 135 Street and West 136 Street",
+    "ACCESSIBLE": "N",
+    "PARKING": "N",
+    "REC_TYPE": "SHELTER",
+    "ACTIVE": "1",
+    "ZIP": "10030",
+    "X": "998810",
+    "Y": "237049",
+    "gx_id": "31"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.97092093129143,
+     40.79151356896872
+    ]
+   },
+   "properties": {
+    "EC_ID": "M118",
+    "NAME": "IS 118",
+    "ADDRESS": "154 West 93 Street",
+    "CITY": "New York",
+    "STATE": "NY",
+    "CROSS_ST": "Between Columbus Avenue and Amsterdam Avenue",
+    "ACCESSIBLE": "N",
+    "PARKING": "N",
+    "REC_TYPE": "SHELTER",
+    "ACTIVE": "1",
+    "ZIP": "10025",
+    "X": "992302",
+    "Y": "227648",
+    "gx_id": "32"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.95410943820585,
+     40.80254465513155
+    ]
+   },
+   "properties": {
+    "EC_ID": "M088",
+    "NAME": "IS 88",
+    "ADDRESS": "215 West 114 Street",
+    "CITY": "New York",
+    "STATE": "NY",
+    "CROSS_ST": "Between Adam C Powell Blvd / 7 Avenue and Frederick Douglass Blvd / 8 Av",
+    "ACCESSIBLE": "N",
+    "PARKING": "N",
+    "REC_TYPE": "SHELTER",
+    "ACTIVE": "1",
+    "ZIP": "10026",
+    "X": "996955",
+    "Y": "231669",
+    "gx_id": "33"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.9788542602503,
+     40.669392923157346
+    ]
+   },
+   "properties": {
+    "EC_ID": "K460",
+    "NAME": "John Jay HS",
+    "ADDRESS": "237 7 Avenue",
+    "CITY": "Brooklyn",
+    "STATE": "NY",
+    "CROSS_ST": "Between 4 Street and 5 Street",
+    "ACCESSIBLE": "N",
+    "ACC_FEAT": "",
+    "ROLE": "",
+    "PARKING": "N",
+    "REC_TYPE": "SHELTER",
+    "ACTIVE": "1",
+    "ZIP": "11215",
+    "X": "990116",
+    "Y": "183155",
+    "gx_id": "34"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.98935459607515,
+     40.71730979925424
+    ]
+   },
+   "properties": {
+    "EC_ID": "M445",
+    "NAME": "Seward Park HS",
+    "ADDRESS": "350 Grand Street",
+    "CITY": "New York",
+    "STATE": "NY",
+    "CROSS_ST": "Between Ludlow Street and Essex Street",
+    "ACCESSIBLE": "N",
+    "PARKING": "N",
+    "REC_TYPE": "SHELTER",
+    "ACTIVE": "1",
+    "ZIP": "10002",
+    "X": "987201",
+    "Y": "200612",
+    "gx_id": "35"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.95988925003597,
+     40.765586222843666
+    ]
+   },
+   "properties": {
+    "EC_ID": "M480",
+    "NAME": "Julia Richman Ed. Complex",
+    "ADDRESS": "317 East 67 Street",
+    "CITY": "New York",
+    "STATE": "NY",
+    "CROSS_ST": "Between 1 Avenue and 2 Avenue",
+    "ACCESSIBLE": "N",
+    "PARKING": "N",
+    "REC_TYPE": "SHELTER",
+    "ACTIVE": "1",
+    "ZIP": "10065",
+    "X": "995361",
+    "Y": "218203",
+    "gx_id": "36"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.84480632674084,
+     40.729757486721134
+    ]
+   },
+   "properties": {
+    "EC_ID": "Q440",
+    "NAME": "Forest Hills HS",
+    "ADDRESS": "67-01 110 Street",
+    "CITY": "Forest Hills",
+    "STATE": "NY",
+    "CROSS_ST": "Between 66 Road and 67 Road",
+    "ACCESSIBLE": "N",
+    "PARKING": "N",
+    "REC_TYPE": "SHELTER",
+    "ACTIVE": "1",
+    "ZIP": "11375",
+    "X": "1027263",
+    "Y": "205185",
+    "gx_id": "37"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.00395920565994,
+     40.62784426935827
+    ]
+   },
+   "properties": {
+    "EC_ID": "K486",
+    "NAME": "IS 187",
+    "ADDRESS": "1171 65 Street",
+    "CITY": "Brooklyn",
+    "STATE": "NY",
+    "CROSS_ST": "Between 11 Avenue and 12 Avenue",
+    "ACCESSIBLE": "N",
+    "PARKING": "N",
+    "REC_TYPE": "SHELTER",
+    "ACTIVE": "1",
+    "ZIP": "11219",
+    "X": "983151",
+    "Y": "168017",
+    "gx_id": "38"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.92572033381603,
+     40.665445853658454
+    ]
+   },
+   "properties": {
+    "EC_ID": "K189",
+    "NAME": "PS 189",
+    "ADDRESS": "1100 East New York Avenue",
+    "CITY": "Brooklyn",
+    "STATE": "NY",
+    "CROSS_ST": "Between East 96 Street and Rockaway Parkway",
+    "ACCESSIBLE": "N",
+    "ACC_FEAT": "",
+    "ROLE": "",
+    "PARKING": "N",
+    "REC_TYPE": "SHELTER",
+    "ACTIVE": "1",
+    "ZIP": "11212",
+    "X": "1004857",
+    "Y": "181725",
+    "gx_id": "39"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.9818558275871,
+     40.62090407510976
+    ]
+   },
+   "properties": {
+    "EC_ID": "K505",
+    "NAME": "Franklin D. Roosevelt HS",
+    "ADDRESS": "5800 20 Avenue",
+    "CITY": "Brooklyn",
+    "STATE": "NY",
+    "CROSS_ST": "Between 57 Street and 58 Street",
+    "ACCESSIBLE": "N",
+    "PARKING": "N",
+    "REC_TYPE": "SHELTER",
+    "ACTIVE": "1",
+    "ZIP": "11204",
+    "X": "989287",
+    "Y": "165489",
+    "gx_id": "4"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.95337212084108,
+     40.64851959626336
+    ]
+   },
+   "properties": {
+    "EC_ID": "K246",
+    "NAME": "IS 246",
+    "ADDRESS": "72 Veronica Place",
+    "CITY": "Brooklyn",
+    "STATE": "NY",
+    "CROSS_ST": "Between Snyder Avenue and Albemarle Road",
+    "ACCESSIBLE": "N",
+    "PARKING": "N",
+    "REC_TYPE": "SHELTER",
+    "ACTIVE": "1",
+    "ZIP": "11226",
+    "X": "997189",
+    "Y": "175553",
+    "gx_id": "40"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.96649248845614,
+     40.64970167934831
+    ]
+   },
+   "properties": {
+    "EC_ID": "K249",
+    "NAME": "PS 249",
+    "ADDRESS": "18 Marlborough Road",
+    "CITY": "Brooklyn",
+    "STATE": "NY",
+    "CROSS_ST": "Between Caton Avenue and Church Avenue",
+    "ACCESSIBLE": "N",
+    "PARKING": "N",
+    "REC_TYPE": "SHELTER",
+    "ACTIVE": "1",
+    "ZIP": "11226",
+    "X": "993548",
+    "Y": "175982",
+    "gx_id": "41"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.9158493807385,
+     40.678141885305074
+    ]
+   },
+   "properties": {
+    "EC_ID": "K271",
+    "NAME": "IS 271",
+    "ADDRESS": "1137 Herkimer Street",
+    "CITY": "Brooklyn",
+    "STATE": "NY",
+    "CROSS_ST": "Between Saratoga Avenue and Thomas S Boyland St  / Hopkinson Avenue",
+    "ACCESSIBLE": "N",
+    "PARKING": "N",
+    "REC_TYPE": "SHELTER",
+    "ACTIVE": "1",
+    "ZIP": "11233",
+    "X": "1007591",
+    "Y": "186353",
+    "gx_id": "42"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.93162165820274,
+     40.67890715260695
+    ]
+   },
+   "properties": {
+    "EC_ID": "K455",
+    "NAME": "Boys and Girls HS",
+    "ADDRESS": "1700 Fulton Street",
+    "CITY": "Brooklyn",
+    "STATE": "NY",
+    "CROSS_ST": "Between Schenectady Avenue and Malcolm X Blvd / Utica Avenue",
+    "ACCESSIBLE": "N",
+    "PARKING": "N",
+    "REC_TYPE": "SHELTER",
+    "ACTIVE": "1",
+    "ZIP": "11213",
+    "X": "1003216",
+    "Y": "186628",
+    "gx_id": "44"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.97645374983142,
+     40.68900935349196
+    ]
+   },
+   "properties": {
+    "EC_ID": "K430",
+    "NAME": "Brooklyn Tech HS",
+    "ADDRESS": "29 Ft Greene Place",
+    "CITY": "Brooklyn",
+    "STATE": "NY",
+    "CROSS_ST": "Between De Kalb Avenue and Fulton Street",
+    "ACCESSIBLE": "N",
+    "PARKING": "N",
+    "REC_TYPE": "SHELTER",
+    "ACTIVE": "1",
+    "ZIP": "11217",
+    "X": "990780",
+    "Y": "190302",
+    "gx_id": "45"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.93345866380528,
+     40.69145458354834
+    ]
+   },
+   "properties": {
+    "EC_ID": "K057",
+    "NAME": "JHS 57",
+    "ADDRESS": "125 Stuyvesant Avenue",
+    "CITY": "Brooklyn",
+    "STATE": "NY",
+    "CROSS_ST": "Between Lafayette Avenue and Greene Avenue",
+    "ACCESSIBLE": "N",
+    "PARKING": "N",
+    "REC_TYPE": "SHELTER",
+    "ACTIVE": "1",
+    "ZIP": "11221",
+    "X": "1002703",
+    "Y": "191199",
+    "gx_id": "46"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.91941681298218,
+     40.69752252729069
+    ]
+   },
+   "properties": {
+    "EC_ID": "K383",
+    "NAME": "IS 383",
+    "ADDRESS": "1300 Greene Avenue",
+    "CITY": "Brooklyn",
+    "STATE": "NY",
+    "CROSS_ST": "Between Wilson Avenue and Myrtle Avenue",
+    "ACCESSIBLE": "N",
+    "PARKING": "N",
+    "REC_TYPE": "SHELTER",
+    "ACTIVE": "1",
+    "ZIP": "11237",
+    "X": "1006595",
+    "Y": "193413",
+    "gx_id": "47"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.911826359605,
+     40.69688017614213
+    ]
+   },
+   "properties": {
+    "EC_ID": "K480",
+    "NAME": "Bushwick HS",
+    "ADDRESS": "400 Irving Avenue",
+    "CITY": "Brooklyn",
+    "STATE": "NY",
+    "CROSS_ST": "Between Woodbine Street and Putnam Avenue",
+    "ACCESSIBLE": "N",
+    "PARKING": "N",
+    "REC_TYPE": "SHELTER",
+    "ACTIVE": "1",
+    "ZIP": "11237",
+    "X": "1008700",
+    "Y": "193181",
+    "gx_id": "48"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.86697916996104,
+     40.74900400991151
+    ]
+   },
+   "properties": {
+    "EC_ID": "Q019",
+    "NAME": "PS 19",
+    "ADDRESS": "98-02 Roosevelt Avenue",
+    "CITY": "Corona",
+    "STATE": "NY",
+    "CROSS_ST": "Between 98 Street and 99 Street",
+    "ACCESSIBLE": "N",
+    "ACC_FEAT": "",
+    "ROLE": "",
+    "PARKING": "N",
+    "REC_TYPE": "SHELTER",
+    "ACTIVE": "1",
+    "ZIP": "11368",
+    "X": "1021107",
+    "Y": "212187",
+    "gx_id": "49"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.96135665642774,
+     40.66925113750201
+    ]
+   },
+   "properties": {
+    "EC_ID": "K600",
+    "NAME": "Clara Barton HS",
+    "ADDRESS": "901 Classon Avenue",
+    "CITY": "Brooklyn",
+    "STATE": "NY",
+    "CROSS_ST": "Between Washington Avenue and President Street",
+    "ACCESSIBLE": "N",
+    "PARKING": "N",
+    "REC_TYPE": "SHELTER",
+    "ACTIVE": "1",
+    "ZIP": "11225",
+    "X": "994970",
+    "Y": "183105",
+    "gx_id": "5"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.83698598632775,
+     40.678811994046676
+    ]
+   },
+   "properties": {
+    "EC_ID": "Q480",
+    "NAME": "John Adams HS",
+    "ADDRESS": "101-01 Rockaway Boulevard",
+    "CITY": "Ozone Park",
+    "STATE": "NY",
+    "CROSS_ST": "Between 101 Street and 103 Street",
+    "ACCESSIBLE": "N",
+    "ACC_FEAT": "",
+    "ROLE": "",
+    "PARKING": "N",
+    "REC_TYPE": "SHELTER",
+    "ACTIVE": "1",
+    "ZIP": "11417",
+    "X": "1029465",
+    "Y": "186628",
+    "gx_id": "50"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.7565836353176,
+     40.75591057691796
+    ]
+   },
+   "properties": {
+    "EC_ID": "C009",
+    "NAME": "Queensborough Comm College",
+    "ADDRESS": "222-05 56 Avenue",
+    "CITY": "Oakland Gardens",
+    "STATE": "NY",
+    "CROSS_ST": "Between Springfield Boulevard and Cloverdle Boulevard",
+    "ACCESSIBLE": "N",
+    "ACC_FEAT": "",
+    "ROLE": "",
+    "PARKING": "N",
+    "REC_TYPE": "SHELTER",
+    "ACTIVE": "1",
+    "ZIP": "11364",
+    "X": "1051688",
+    "Y": "214769",
+    "gx_id": "51"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.72635923386981,
+     40.710732491591926
+    ]
+   },
+   "properties": {
+    "EC_ID": "P003",
+    "NAME": "Belmont Racetrack",
+    "ADDRESS": "2150 Hempstead Turnpike",
+    "CITY": "Elmont",
+    "STATE": "NY",
+    "CROSS_ST": "Between Hempstead Avenue and Cross Island Parkway",
+    "ACCESSIBLE": "N",
+    "ACC_FEAT": "",
+    "ROLE": "",
+    "PARKING": "N",
+    "REC_TYPE": "SHELTER",
+    "ACTIVE": "1",
+    "ZIP": "11003",
+    "X": "1060113",
+    "Y": "198334",
+    "gx_id": "53"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.8905984448421,
+     40.836138425759906
+    ]
+   },
+   "properties": {
+    "EC_ID": "X098",
+    "NAME": "IS 98",
+    "ADDRESS": "1619 Boston Road",
+    "CITY": "Bronx",
+    "STATE": "NY",
+    "CROSS_ST": "Between Seabury Place and East 173 Street",
+    "ACCESSIBLE": "N",
+    "PARKING": "N",
+    "REC_TYPE": "SHELTER",
+    "ACTIVE": "1",
+    "ZIP": "10460",
+    "X": "1014523",
+    "Y": "243924",
+    "gx_id": "55"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.98746120239045,
+     40.695554608700306
+    ]
+   },
+   "properties": {
+    "EC_ID": "C007",
+    "NAME": "NYC Technical College",
+    "ADDRESS": "300 Jay Street",
+    "CITY": "Brooklyn",
+    "STATE": "NY",
+    "CROSS_ST": "Between Tillary Street and Johnson Street / Tech Pl",
+    "ACCESSIBLE": "N",
+    "ACC_FEAT": "",
+    "ROLE": "",
+    "PARKING": "N",
+    "REC_TYPE": "SHELTER",
+    "ACTIVE": "1",
+    "ZIP": "11201",
+    "X": "987727",
+    "Y": "192686",
+    "gx_id": "56"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.86595584629892,
+     40.83786080082496
+    ]
+   },
+   "properties": {
+    "EC_ID": "X102",
+    "NAME": "PS 102",
+    "ADDRESS": "1827 Archer Street",
+    "CITY": "Bronx",
+    "STATE": "NY",
+    "CROSS_ST": "Between Taylor Avenue and Thieriot Avenue",
+    "ACCESSIBLE": "N",
+    "PARKING": "N",
+    "REC_TYPE": "SHELTER",
+    "ACTIVE": "1",
+    "ZIP": "10460",
+    "X": "1021341",
+    "Y": "244561",
+    "gx_id": "57"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.91073572093279,
+     40.85155907294009
+    ]
+   },
+   "properties": {
+    "EC_ID": "X306",
+    "NAME": "PS 306",
+    "ADDRESS": "40 West Tremont Avenue",
+    "CITY": "Bronx",
+    "STATE": "NY",
+    "CROSS_ST": "Between Grand Avenue and Davidson Avenue",
+    "ACCESSIBLE": "N",
+    "PARKING": "N",
+    "REC_TYPE": "SHELTER",
+    "ACTIVE": "1",
+    "ZIP": "10453",
+    "X": "1008945",
+    "Y": "249536",
+    "gx_id": "58"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.9142888122352,
+     40.88812660436095
+    ]
+   },
+   "properties": {
+    "EC_ID": "X141",
+    "NAME": "MS - HS 141",
+    "ADDRESS": "660 West 237 Street",
+    "CITY": "Bronx",
+    "STATE": "NY",
+    "CROSS_ST": "Between Hudson Manor Terrace and Independence Avenue",
+    "ACCESSIBLE": "N",
+    "PARKING": "N",
+    "REC_TYPE": "SHELTER",
+    "ACTIVE": "1",
+    "ZIP": "10463",
+    "X": "1007949",
+    "Y": "262858",
+    "gx_id": "59"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.9120731342049,
+     40.668362166452894
+    ]
+   },
+   "properties": {
+    "EC_ID": "K327",
+    "NAME": "PS 327",
+    "ADDRESS": "111 Bristol Street",
+    "CITY": "Brooklyn",
+    "STATE": "NY",
+    "CROSS_ST": "Between Pitkin Avenue and Sutter Avenue",
+    "ACCESSIBLE": "N",
+    "ACC_FEAT": "",
+    "PARKING": "N",
+    "REC_TYPE": "SHELTER",
+    "ACTIVE": "1",
+    "ZIP": "11212",
+    "X": "1008642",
+    "Y": "182791",
+    "gx_id": "6"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.90844196606528,
+     40.81366101258397
+    ]
+   },
+   "properties": {
+    "EC_ID": "X005",
+    "NAME": "PS 5",
+    "ADDRESS": "564 Jackson Avenue",
+    "CITY": "Bronx",
+    "STATE": "NY",
+    "CROSS_ST": "Between East 149 Street and East 151 Street",
+    "ACCESSIBLE": "N",
+    "PARKING": "N",
+    "REC_TYPE": "SHELTER",
+    "ACTIVE": "1",
+    "ZIP": "10455",
+    "X": "1009594",
+    "Y": "235729",
+    "gx_id": "60"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.90895028821181,
+     40.71144715647816
+    ]
+   },
+   "properties": {
+    "EC_ID": "Q485",
+    "NAME": "Grover Cleveland HS",
+    "ADDRESS": "21-27 Himrod Street",
+    "CITY": "Ridgewood",
+    "STATE": "NY",
+    "CROSS_ST": "Between Grandview Avenue and Tonsor Street",
+    "ACCESSIBLE": "N",
+    "PARKING": "N",
+    "REC_TYPE": "SHELTER",
+    "ACTIVE": "1",
+    "ZIP": "11385",
+    "X": "1009492",
+    "Y": "198489",
+    "gx_id": "61"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.91899556448568,
+     40.82755169882319
+    ]
+   },
+   "properties": {
+    "EC_ID": "X460",
+    "NAME": "HS Of Law, Government and Justice",
+    "ADDRESS": "244 East 163 Street",
+    "CITY": "Bronx",
+    "STATE": "NY",
+    "CROSS_ST": "Between Sherman Avenue and Grant Avenue",
+    "ACCESSIBLE": "P",
+    "ACC_FEAT": "• The main/accessible entrance to this location is at 244 East 163rd Street.\\n\\n• Access to the main shelter areas will be unobstructed and without steps.\\n \\n• Accessible restrooms are available.\\n\\n• Accessible dormitory and eating/cafeteria areas are available.\\n\\n• Additional amenities will be available such as accessible cots and mobility aids (canes, crutches, manual wheelchairs, storage space for refrigerated medication, etc.).\\n\\n",
+    "ROLE": "",
+    "PARKING": "N",
+    "REC_TYPE": "SHELTER",
+    "ACTIVE": "1",
+    "ZIP": "10451",
+    "X": "1006668",
+    "Y": "240787",
+    "gx_id": "62"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.88551299319472,
+     40.81559476704849
+    ]
+   },
+   "properties": {
+    "EC_ID": "X074",
+    "NAME": "IS 201",
+    "ADDRESS": "730 Bryant Avenue",
+    "CITY": "Bronx",
+    "STATE": "NY",
+    "CROSS_ST": "Between Spofford Avenue and Lafayette Avenue",
+    "ACCESSIBLE": "N",
+    "PARKING": "N",
+    "REC_TYPE": "SHELTER",
+    "ACTIVE": "1",
+    "ZIP": "10474",
+    "X": "1015940",
+    "Y": "236441",
+    "gx_id": "64"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "ZONE": "1",
+    "EVACUATE": "0",
+    "REC_TYPE": "ORDER",
+    "ACTIVE": "0",
+    "ZIP": "0",
+    "X": "0",
+    "Y": "0",
+    "gx_id": "65"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "ZONE": "2",
+    "EVACUATE": "0",
+    "REC_TYPE": "ORDER",
+    "ACTIVE": "0",
+    "ZIP": "0",
+    "X": "0",
+    "Y": "0",
+    "gx_id": "66"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "ZONE": "3",
+    "EVACUATE": "0",
+    "REC_TYPE": "ORDER",
+    "ACTIVE": "0",
+    "ZIP": "0",
+    "X": "0",
+    "Y": "0",
+    "gx_id": "67"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "ZONE": "4",
+    "EVACUATE": "0",
+    "REC_TYPE": "ORDER",
+    "ACTIVE": "0",
+    "ZIP": "0",
+    "X": "0",
+    "Y": "0",
+    "gx_id": "68"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "ZONE": "5",
+    "EVACUATE": "0",
+    "REC_TYPE": "ORDER",
+    "ACTIVE": "0",
+    "ZIP": "0",
+    "X": "0",
+    "Y": "0",
+    "gx_id": "69"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.86893052107207,
+     40.69273588612877
+    ]
+   },
+   "properties": {
+    "EC_ID": "K420",
+    "NAME": "Franklin K. Lane HS",
+    "ADDRESS": "999 Jamaica Avenue",
+    "CITY": "Brooklyn",
+    "STATE": "NY",
+    "CROSS_ST": "Between Elderts Lane and Dexter Court",
+    "ACCESSIBLE": "N",
+    "PARKING": "N",
+    "REC_TYPE": "SHELTER",
+    "ACTIVE": "1",
+    "ZIP": "11208",
+    "X": "1020597",
+    "Y": "191686",
+    "gx_id": "7"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "ZONE": "6",
+    "EVACUATE": "0",
+    "REC_TYPE": "ORDER",
+    "ACTIVE": "0",
+    "ZIP": "0",
+    "X": "0",
+    "Y": "0",
+    "gx_id": "70"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.10501258923861,
+     40.60834951161142
+    ]
+   },
+   "properties": {
+    "EC_ID": "R880",
+    "NAME": "PS 80 Petrides Complex",
+    "ADDRESS": "715 Ocean Terrace",
+    "CITY": "Staten Island",
+    "STATE": "NY",
+    "CROSS_ST": "Between Milford Drive and Witteman Place",
+    "ACCESSIBLE": "N",
+    "PARKING": "N",
+    "REC_TYPE": "SHELTER",
+    "ACTIVE": "1",
+    "ZIP": "10301",
+    "X": "955092",
+    "Y": "160932",
+    "gx_id": "8"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.97435752962365,
+     40.785937089522676
+    ]
+   },
+   "properties": {
+    "EC_ID": "M470",
+    "NAME": "Louis D. Brandeis HS",
+    "ADDRESS": "145 West 84 Street",
+    "CITY": "New York",
+    "STATE": "NY",
+    "CROSS_ST": "Between Columbus Avenue and Amsterdam Avenue",
+    "ACCESSIBLE": "N",
+    "PARKING": "N",
+    "REC_TYPE": "SHELTER",
+    "ACTIVE": "1",
+    "ZIP": "10024",
+    "X": "991351",
+    "Y": "225616",
+    "gx_id": "9"
+   }
+  }
+ ]
+}
+);
